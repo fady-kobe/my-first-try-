@@ -1,0 +1,48 @@
+.title{
+    text-align: center;
+    color: aqua;
+}
+body{
+    background-color: black;
+}
+.ool{
+    color: aliceblue;
+}
+.po{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.color{
+    color: azure;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.color_and_center{
+    color: azure;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.couleur{
+    color: aqua;
+    text-align: center;
+}
+.mp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+}
+.height{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

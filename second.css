@@ -1,0 +1,51 @@
+.background{ 
+    background-color: black;
+    color: white;
+}
+.img1{display: flex;
+justify-content: center;
+align-items: center;
+width: 60vw;
+
+}
+.intro{
+    text-align: center;
+}
+.logo{
+    width: 10%;
+    height: 20%;
+    
+}
+.nba{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.teams{
+    width: 400px;
+}
+.pic{
+
+    display: flex;
+justify-content: center;
+align-items: center;
+width: 20vw;
+}
+.ha{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.button{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+.jimmy{
+    display: flex;
+    justify-content: center;
+    height: 50%;
+}
+.k{display: flex;
+justify-content: center;}
